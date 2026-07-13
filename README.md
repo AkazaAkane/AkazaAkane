@@ -6,7 +6,7 @@ ML engineer focused on **LLM inference systems**, **AI infrastructure**, and **m
 I work on open-source model-serving systems [sglang-omni](https://github.com/sgl-project/sglang-omni).
 
 Currently:
-* Contributor @ Sglang-Omni: omni model optimization
+* Contributor @ Sglang-Omni: multimodal inference optimization
 * Senior DS @ Community Loans of America: Data Engineering, Model training and deployment
 * Part-time AI Engineer @ TABOT: Agentic System, RAG, Evals
 
