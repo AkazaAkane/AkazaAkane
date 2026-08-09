@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Yuhao Chen
 
 ML engineer focused on **LLM inference systems**, **AI infrastructure**, and **multimodal serving**.
