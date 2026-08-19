@@ -10,5 +10,5 @@ Website: [akazaakane.github.io](https://akazaakane.github.io)
 Email: [yxckeis8@gmail.com](mailto:yxckeis8@gmail.com)
 
 Click to watch my gaming montage :)
-[![Apex Legends AXLE Montage](https://www.youtube.com/watch?v=X7faRNF5O8Y)
+[![Apex Legends AXLE Montage](https://www.youtube.com/watch?v=X7faRNF5O8Y)]
 
