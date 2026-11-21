@@ -1,8 +1,5 @@
 ## Yuhao Chen
 
-Member of Technical Staff at Dyna Robotics — Research Engineer, AI Infrastructure  
-SGLang Core Contributor
-
 I work on multimodal inference [sglang-omni](https://github.com/sgl-project/sglang-omni).
 
 Website: [akazaakane.github.io](https://akazaakane.github.io)
